@@ -1,0 +1,5 @@
+{
+  "name": "PawsGuard - Your Pet Care Assistant",
+  "description": "A mobile-first pet care application with reminders for feeding and vaccinations, plus an AI-powered veterinary assistant for health guidance.",
+  "requestFramePermissions": []
+}
